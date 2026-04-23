@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('https://media.istockphoto.com/id/1659859315/es/foto/la-gente-disfruta-del-sol-y-la-comida-sentada-en-los-bancos-en-el-festival-gastron%C3%B3mico.jpg?s=612x612&w=0&k=20&c=-TgxlAEW49sM_OwZE8KkKJK8Njrx9NhG6yBbcAX2geU=');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+#title{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
